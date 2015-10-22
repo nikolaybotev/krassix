@@ -107,7 +107,7 @@ a:active {
   padding: 0;
 }
 .widget_pages ul li a {
-  background-image: url(images/menu_item.png);
+  background: url(images/menu_item.png) no-repeat;
   color: white;
   display: inline-block;
   font-size: 15px;
@@ -119,7 +119,7 @@ a:active {
   width: 182px;
 }
 .widget_pages ul li a:hover {
-  background-image: url(images/menu_item_hover.png);
+  background: url(images/menu_item.png) no-repeat -200px 0px;
   color: white;
   text-decoration: none;
 }
