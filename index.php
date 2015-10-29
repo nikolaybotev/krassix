@@ -11,7 +11,7 @@ $tdir = esc_url( get_template_directory_uri() );
 <?php wp_head(); ?>
 </head>
 
-<body class="backgrndtile">
+<body class="backgrndtile" style="background-color: #04182C">
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="855">

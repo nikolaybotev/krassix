@@ -12,7 +12,7 @@ $sidebar_image_id = get_post_meta( $post->ID, 'image id', true );
 <?php wp_head(); ?>
 </head>
 
-<body class="backgrndtile">
+<body class="backgrndtile" style="background-color: #04182C">
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="851">
